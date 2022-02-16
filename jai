@@ -2,4 +2,4 @@ from universe
 
 from star
 
-from sun asd
+from sun asd sd
